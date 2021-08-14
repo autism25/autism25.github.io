@@ -70,21 +70,21 @@ h4{
 }
 
 #bl{
-    position: relative;
-    left: 16%;
     float: left;
     width: 33.3%;
+    text-align: center;
 }
 
 #wc{
-    position: relative;
-    right: 16%;
     float: right;
+    width: 33.3%;
+    text-align: center;
 }
 
 #bg{
-    position: relative;
-    left: 11%;
+    float: left;
+    width: 33.3%;
+    text-align: center;
 }
 
 .links a{
