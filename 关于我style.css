@@ -5,6 +5,11 @@ body{
     background-image: url(./图片/R-C\ \(1\).png);
 }
 
+.box{
+    display: flex;
+    flex-direction: column;
+}
+
 .A1{
     padding: 30px 20px;
     display: flex;
